@@ -1,5 +1,5 @@
 {
-    "last_refreshed": "Jun 25, 2024 08:48 AM",
+    "last_refreshed": "Jun 26, 2024 12:21 PM",
     "I-539_CSC_139B-H": {
         "data": {
             "processing_time": {
@@ -29,7 +29,7 @@
                 "subtypes": [
                     {
                         "form_type": "139B-H",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -44,9 +44,9 @@
                                 "value": 3.5
                             }
                         ],
-                        "service_request_date": "February 02, 2024",
-                        "service_request_date_en": "February 02, 2024",
-                        "service_request_date_es": "02 de febrero de 2024",
+                        "service_request_date": "February 15, 2024",
+                        "service_request_date_en": "February 15, 2024",
+                        "service_request_date_es": "15 de febrero de 2024",
                         "subtype_info_en": "Extension of stay for H4 dependents",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para dependientes H-4",
                         "subtype_note_en": null,
@@ -86,7 +86,7 @@
                 "subtypes": [
                     {
                         "form_type": "139B-H",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -101,9 +101,9 @@
                                 "value": 4
                             }
                         ],
-                        "service_request_date": "January 15, 2024",
-                        "service_request_date_en": "January 15, 2024",
-                        "service_request_date_es": "15 de enero de 2024",
+                        "service_request_date": "February 03, 2024",
+                        "service_request_date_en": "February 03, 2024",
+                        "service_request_date_es": "03 de febrero de 2024",
                         "subtype_info_en": "Extension of stay for H4 dependents",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para dependientes H-4",
                         "subtype_note_en": null,
@@ -137,13 +137,13 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 6.5
+                        "value": 6
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "139B-H",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -155,12 +155,12 @@
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 6.5
+                                "value": 6
                             }
                         ],
-                        "service_request_date": "November 12, 2023",
-                        "service_request_date_en": "November 12, 2023",
-                        "service_request_date_es": "12 de noviembre de 2023",
+                        "service_request_date": "November 28, 2023",
+                        "service_request_date_en": "November 28, 2023",
+                        "service_request_date_es": "28 de noviembre de 2023",
                         "subtype_info_en": "Extension of stay for H4 dependents",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para dependientes H-4",
                         "subtype_note_en": null,
@@ -200,7 +200,7 @@
                 "subtypes": [
                     {
                         "form_type": "139B-H",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -215,9 +215,9 @@
                                 "value": 7
                             }
                         ],
-                        "service_request_date": "October 31, 2023",
-                        "service_request_date_en": "October 31, 2023",
-                        "service_request_date_es": "31 de octubre de 2023",
+                        "service_request_date": "November 15, 2023",
+                        "service_request_date_en": "November 15, 2023",
+                        "service_request_date_es": "15 de noviembre de 2023",
                         "subtype_info_en": "Extension of stay for H4 dependents",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para dependientes H-4",
                         "subtype_note_en": null,
@@ -257,7 +257,7 @@
                 "subtypes": [
                     {
                         "form_type": "139BC-H",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -272,9 +272,9 @@
                                 "value": 2.5
                             }
                         ],
-                        "service_request_date": "March 02, 2024",
-                        "service_request_date_en": "March 02, 2024",
-                        "service_request_date_es": "02 de marzo de 2024",
+                        "service_request_date": "March 18, 2024",
+                        "service_request_date_en": "March 18, 2024",
+                        "service_request_date_es": "18 de marzo de 2024",
                         "subtype_info_en": "Extension of stay for H4 dependents with I-765",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para dependientes H-4 con I-765",
                         "subtype_note_en": null,
@@ -302,36 +302,36 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 4.5
+                        "value": 4
                     },
                     {
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 3
+                        "value": 2.5
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "139BC-H",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 4.5
+                                "value": 4
                             },
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 3
+                                "value": 2.5
                             }
                         ],
-                        "service_request_date": "February 05, 2024",
-                        "service_request_date_en": "February 05, 2024",
-                        "service_request_date_es": "05 de febrero de 2024",
+                        "service_request_date": "February 27, 2024",
+                        "service_request_date_en": "February 27, 2024",
+                        "service_request_date_es": "27 de febrero de 2024",
                         "subtype_info_en": "Extension of stay for H4 dependents with I-765",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para dependientes H-4 con I-765",
                         "subtype_note_en": null,
@@ -365,13 +365,13 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 5
+                        "value": 4.5
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "139BC-H",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -383,12 +383,12 @@
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 5
+                                "value": 4.5
                             }
                         ],
-                        "service_request_date": "December 03, 2023",
-                        "service_request_date_en": "December 03, 2023",
-                        "service_request_date_es": "03 de diciembre de 2023",
+                        "service_request_date": "December 20, 2023",
+                        "service_request_date_en": "December 20, 2023",
+                        "service_request_date_es": "20 de diciembre de 2023",
                         "subtype_info_en": "Extension of stay for H4 dependents with I-765",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para dependientes H-4 con I-765",
                         "subtype_note_en": null,
@@ -422,13 +422,13 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 4
+                        "value": 4.5
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "139BC-H",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -440,12 +440,12 @@
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 4
+                                "value": 4.5
                             }
                         ],
-                        "service_request_date": "November 23, 2023",
-                        "service_request_date_en": "November 23, 2023",
-                        "service_request_date_es": "23 de noviembre de 2023",
+                        "service_request_date": "December 06, 2023",
+                        "service_request_date_en": "December 06, 2023",
+                        "service_request_date_es": "06 de diciembre de 2023",
                         "subtype_info_en": "Extension of stay for H4 dependents with I-765",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para dependientes H-4 con I-765",
                         "subtype_note_en": null,
@@ -473,36 +473,36 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 8.5
+                        "value": 7
                     },
                     {
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 5
+                        "value": 4.5
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "139B-B",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 8.5
+                                "value": 7
                             },
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 5
+                                "value": 4.5
                             }
                         ],
-                        "service_request_date": "October 05, 2023",
-                        "service_request_date_en": "October 05, 2023",
-                        "service_request_date_es": "05 de octubre de 2023",
+                        "service_request_date": "November 28, 2023",
+                        "service_request_date_en": "November 28, 2023",
+                        "service_request_date_es": "28 de noviembre de 2023",
                         "subtype_info_en": "Extension of stay for B nonimmigrant",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para no inmigrante B",
                         "subtype_note_en": null,
@@ -530,36 +530,36 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 8
+                        "value": 7.5
                     },
                     {
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 4
+                        "value": 3.5
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "139B-B",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 8
+                                "value": 7.5
                             },
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 4
+                                "value": 3.5
                             }
                         ],
-                        "service_request_date": "October 20, 2023",
-                        "service_request_date_en": "October 20, 2023",
-                        "service_request_date_es": "20 de octubre de 2023",
+                        "service_request_date": "November 15, 2023",
+                        "service_request_date_en": "November 15, 2023",
+                        "service_request_date_es": "15 de noviembre de 2023",
                         "subtype_info_en": "Extension of stay for B nonimmigrant",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para no inmigrante B",
                         "subtype_note_en": null,
@@ -593,13 +593,13 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 3.5
+                        "value": 4
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "139B-B",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -611,12 +611,12 @@
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 3.5
+                                "value": 4
                             }
                         ],
-                        "service_request_date": "February 01, 2024",
-                        "service_request_date_en": "February 01, 2024",
-                        "service_request_date_es": "01 de febrero de 2024",
+                        "service_request_date": "February 15, 2024",
+                        "service_request_date_en": "February 15, 2024",
+                        "service_request_date_es": "15 de febrero de 2024",
                         "subtype_info_en": "Extension of stay for B nonimmigrant",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para no inmigrante B",
                         "subtype_note_en": null,
@@ -644,7 +644,7 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 6.5
+                        "value": 7
                     },
                     {
                         "unit": "Months",
@@ -656,13 +656,13 @@
                 "subtypes": [
                     {
                         "form_type": "139B-B",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 6.5
+                                "value": 7
                             },
                             {
                                 "unit": "Months",
@@ -671,9 +671,9 @@
                                 "value": 6
                             }
                         ],
-                        "service_request_date": "November 28, 2023",
-                        "service_request_date_en": "November 28, 2023",
-                        "service_request_date_es": "28 de noviembre de 2023",
+                        "service_request_date": "December 08, 2023",
+                        "service_request_date_en": "December 08, 2023",
+                        "service_request_date_es": "08 de diciembre de 2023",
                         "subtype_info_en": "Extension of stay for B nonimmigrant",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para no inmigrante B",
                         "subtype_note_en": null,
@@ -713,7 +713,7 @@
                 "subtypes": [
                     {
                         "form_type": "139B-B",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -728,9 +728,9 @@
                                 "value": 4
                             }
                         ],
-                        "service_request_date": "January 22, 2024",
-                        "service_request_date_en": "January 22, 2024",
-                        "service_request_date_es": "22 de enero de 2024",
+                        "service_request_date": "February 05, 2024",
+                        "service_request_date_en": "February 05, 2024",
+                        "service_request_date_es": "05 de febrero de 2024",
                         "subtype_info_en": "Extension of stay for B nonimmigrant",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para no inmigrante B",
                         "subtype_note_en": null,
@@ -770,7 +770,7 @@
                 "subtypes": [
                     {
                         "form_type": "139B-FMJ",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -785,9 +785,9 @@
                                 "value": 3.5
                             }
                         ],
-                        "service_request_date": "January 31, 2024",
-                        "service_request_date_en": "January 31, 2024",
-                        "service_request_date_es": "31 de enero de 2024",
+                        "service_request_date": "February 16, 2024",
+                        "service_request_date_en": "February 16, 2024",
+                        "service_request_date_es": "16 de febrero de 2024",
                         "subtype_info_en": "Extension of stay for F or M students and J exchange visitor category",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para estudiantes F o M y para visitantes de intercambio J",
                         "subtype_note_en": null,
@@ -821,13 +821,13 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 3.5
+                        "value": 3
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "139B-FMJ",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -839,12 +839,12 @@
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 3.5
+                                "value": 3
                             }
                         ],
-                        "service_request_date": "January 29, 2024",
-                        "service_request_date_en": "January 29, 2024",
-                        "service_request_date_es": "29 de enero de 2024",
+                        "service_request_date": "February 21, 2024",
+                        "service_request_date_en": "February 21, 2024",
+                        "service_request_date_es": "21 de febrero de 2024",
                         "subtype_info_en": "Extension of stay for F or M students and J exchange visitor category",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para estudiantes F o M y para visitantes de intercambio J",
                         "subtype_note_en": null,
@@ -872,7 +872,7 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 5
+                        "value": 4.5
                     },
                     {
                         "unit": "Months",
@@ -884,13 +884,13 @@
                 "subtypes": [
                     {
                         "form_type": "139B-FMJ",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 5
+                                "value": 4.5
                             },
                             {
                                 "unit": "Months",
@@ -899,9 +899,9 @@
                                 "value": 4
                             }
                         ],
-                        "service_request_date": "January 26, 2024",
-                        "service_request_date_en": "January 26, 2024",
-                        "service_request_date_es": "26 de enero de 2024",
+                        "service_request_date": "February 21, 2024",
+                        "service_request_date_en": "February 21, 2024",
+                        "service_request_date_es": "21 de febrero de 2024",
                         "subtype_info_en": "Extension of stay for F or M students and J exchange visitor category",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para estudiantes F o M y para visitantes de intercambio J",
                         "subtype_note_en": null,
@@ -929,36 +929,36 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 4.5
+                        "value": 5
                     },
                     {
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 3
+                        "value": 3.5
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "139B-FMJ",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 4.5
+                                "value": 5
                             },
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 3
+                                "value": 3.5
                             }
                         ],
-                        "service_request_date": "February 06, 2024",
-                        "service_request_date_en": "February 06, 2024",
-                        "service_request_date_es": "06 de febrero de 2024",
+                        "service_request_date": "January 29, 2024",
+                        "service_request_date_en": "January 29, 2024",
+                        "service_request_date_es": "29 de enero de 2024",
                         "subtype_info_en": "Extension of stay for F or M students and J exchange visitor category",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para estudiantes F o M y para visitantes de intercambio J",
                         "subtype_note_en": null,
@@ -998,7 +998,7 @@
                 "subtypes": [
                     {
                         "form_type": "139B-FMJ",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -1013,9 +1013,9 @@
                                 "value": 4
                             }
                         ],
-                        "service_request_date": "January 22, 2024",
-                        "service_request_date_en": "January 22, 2024",
-                        "service_request_date_es": "22 de enero de 2024",
+                        "service_request_date": "February 06, 2024",
+                        "service_request_date_en": "February 06, 2024",
+                        "service_request_date_es": "06 de febrero de 2024",
                         "subtype_info_en": "Extension of stay for F or M students and J exchange visitor category",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para estudiantes F o M y para visitantes de intercambio J",
                         "subtype_note_en": null,
@@ -1043,7 +1043,7 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 15
+                        "value": 13
                     },
                     {
                         "unit": "Months",
@@ -1055,13 +1055,13 @@
                 "subtypes": [
                     {
                         "form_type": "139B-L",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 15
+                                "value": 13
                             },
                             {
                                 "unit": "Months",
@@ -1070,9 +1070,9 @@
                                 "value": 4
                             }
                         ],
-                        "service_request_date": "March 21, 2023",
-                        "service_request_date_en": "March 21, 2023",
-                        "service_request_date_es": "21 de marzo de 2023",
+                        "service_request_date": "May 30, 2023",
+                        "service_request_date_en": "May 30, 2023",
+                        "service_request_date_es": "30 de mayo de 2023",
                         "subtype_info_en": "Extension of stay for L dependents",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para dependientes L",
                         "subtype_note_en": null,
@@ -1112,7 +1112,7 @@
                 "subtypes": [
                     {
                         "form_type": "139B-L",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -1127,9 +1127,9 @@
                                 "value": 4
                             }
                         ],
-                        "service_request_date": "December 05, 2023",
-                        "service_request_date_en": "December 05, 2023",
-                        "service_request_date_es": "05 de diciembre de 2023",
+                        "service_request_date": "December 18, 2023",
+                        "service_request_date_en": "December 18, 2023",
+                        "service_request_date_es": "18 de diciembre de 2023",
                         "subtype_info_en": "Extension of stay for L dependents",
                         "subtype_info_es": "Extensi\u00f3n de estad\u00eda para dependientes L",
                         "subtype_note_en": null,
@@ -1157,36 +1157,36 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 14.5
+                        "value": 14
                     },
                     {
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 6
+                        "value": 5.5
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "139B-OTH",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 14.5
+                                "value": 14
                             },
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 6
+                                "value": 5.5
                             }
                         ],
-                        "service_request_date": "April 11, 2023",
-                        "service_request_date_en": "April 11, 2023",
-                        "service_request_date_es": "11 de abril de 2023",
+                        "service_request_date": "April 29, 2023",
+                        "service_request_date_en": "April 29, 2023",
+                        "service_request_date_es": "29 de abril de 2023",
                         "subtype_info_en": "All other extension of stay applications",
                         "subtype_info_es": "Todas las dem\u00e1s solicitudes de extensi\u00f3n",
                         "subtype_note_en": null,
@@ -1226,7 +1226,7 @@
                 "subtypes": [
                     {
                         "form_type": "139B-OTH",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -1241,9 +1241,9 @@
                                 "value": 8
                             }
                         ],
-                        "service_request_date": "July 15, 2023",
-                        "service_request_date_en": "July 15, 2023",
-                        "service_request_date_es": "15 de julio de 2023",
+                        "service_request_date": "July 30, 2023",
+                        "service_request_date_en": "July 30, 2023",
+                        "service_request_date_es": "30 de julio de 2023",
                         "subtype_info_en": "All other extension of stay applications",
                         "subtype_info_es": "Todas las dem\u00e1s solicitudes de extensi\u00f3n",
                         "subtype_note_en": null,
@@ -1271,7 +1271,7 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 7
+                        "value": 7.5
                     },
                     {
                         "unit": "Months",
@@ -1283,13 +1283,13 @@
                 "subtypes": [
                     {
                         "form_type": "139B-OTH",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 7
+                                "value": 7.5
                             },
                             {
                                 "unit": "Months",
@@ -1298,9 +1298,9 @@
                                 "value": 6.5
                             }
                         ],
-                        "service_request_date": "November 12, 2023",
-                        "service_request_date_en": "November 12, 2023",
-                        "service_request_date_es": "12 de noviembre de 2023",
+                        "service_request_date": "November 24, 2023",
+                        "service_request_date_en": "November 24, 2023",
+                        "service_request_date_es": "24 de noviembre de 2023",
                         "subtype_info_en": "All other extension of stay applications",
                         "subtype_info_es": "Todas las dem\u00e1s solicitudes de extensi\u00f3n",
                         "subtype_note_en": null,
@@ -1334,13 +1334,13 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 3.5
+                        "value": 4
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "139B-OTH",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -1352,12 +1352,12 @@
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 3.5
+                                "value": 4
                             }
                         ],
-                        "service_request_date": "February 02, 2024",
-                        "service_request_date_en": "February 02, 2024",
-                        "service_request_date_es": "02 de febrero de 2024",
+                        "service_request_date": "February 17, 2024",
+                        "service_request_date_en": "February 17, 2024",
+                        "service_request_date_es": "17 de febrero de 2024",
                         "subtype_info_en": "All other extension of stay applications",
                         "subtype_info_es": "Todas las dem\u00e1s solicitudes de extensi\u00f3n",
                         "subtype_note_en": null,
@@ -1397,7 +1397,7 @@
                 "subtypes": [
                     {
                         "form_type": "139B-OTH",
-                        "publication_date": "June 03, 2024",
+                        "publication_date": "June 25, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -1412,9 +1412,9 @@
                                 "value": 2.5
                             }
                         ],
-                        "service_request_date": "February 22, 2024",
-                        "service_request_date_en": "February 22, 2024",
-                        "service_request_date_es": "22 de febrero de 2024",
+                        "service_request_date": "March 08, 2024",
+                        "service_request_date_en": "March 08, 2024",
+                        "service_request_date_es": "08 de marzo de 2024",
                         "subtype_info_en": "All other extension of stay applications",
                         "subtype_info_es": "Todas las dem\u00e1s solicitudes de extensi\u00f3n",
                         "subtype_note_en": null,
