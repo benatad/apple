@@ -1,5 +1,5 @@
 {
-    "last_refreshed": "Jul 09, 2024 07:54 AM",
+    "last_refreshed": "Jul 09, 2024 08:57 PM",
     "I-765_CSC_147-C26": {
         "data": {
             "processing_time": {
@@ -569,63 +569,6 @@
             }
         },
         "message": "Query was successful for payload {'form_name': 'I-765', 'office_code': 'SSC', 'form_type': '147-A18'}"
-    },
-    "I-765_ESC_147-A18": {
-        "data": {
-            "processing_time": {
-                "form_info_en": "Application for Employment Authorization",
-                "form_info_es": "Solicitud de Autorizaci\u00f3n de Empleo",
-                "form_name": "I-765",
-                "form_note_en": null,
-                "form_note_es": null,
-                "office_code": "ESC",
-                "pilot_content_en": "We generally process cases in the order we receive them. This processing time is based on how long it took us to complete 80% of adjudicated cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
-                "pilot_content_es": "Generalmente procesamos los casos en el orden en que los recibimos. Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos llev\u00f3 completar el 80% de los casos adjudicados en los \u00faltimos seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
-                "pilot_form": true,
-                "range": [
-                    {
-                        "unit": "Months",
-                        "unit_en": "Months",
-                        "unit_es": "Meses",
-                        "value": 9
-                    },
-                    {
-                        "unit": "Months",
-                        "unit_en": "Months",
-                        "unit_es": "Meses",
-                        "value": 8.5
-                    }
-                ],
-                "subtypes": [
-                    {
-                        "form_type": "147-A18",
-                        "publication_date": "June 25, 2024",
-                        "range": [
-                            {
-                                "unit": "Months",
-                                "unit_en": "Months",
-                                "unit_es": "Meses",
-                                "value": 9
-                            },
-                            {
-                                "unit": "Months",
-                                "unit_en": "Months",
-                                "unit_es": "Meses",
-                                "value": 8.5
-                            }
-                        ],
-                        "service_request_date": "October 26, 2023",
-                        "service_request_date_en": "October 26, 2023",
-                        "service_request_date_es": "26 de octubre de 2023",
-                        "subtype_info_en": "Based on being an L-2 spouse of an L-1 nonimmigrant [(a)(18)]",
-                        "subtype_info_es": "Basado en ser un c\u00f3nyuge L-2 de un no inmigrante L-1 [(a)(18)]",
-                        "subtype_note_en": null,
-                        "subtype_note_es": null
-                    }
-                ]
-            }
-        },
-        "message": "Query was successful for payload {'form_name': 'I-765', 'office_code': 'ESC', 'form_type': '147-A18'}"
     },
     "I-765_YSC_147-C3": {
         "data": {
