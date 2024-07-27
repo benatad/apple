@@ -1,62 +1,5 @@
 {
-    "last_refreshed": "Jul 26, 2024 07:30 AM",
-    "I-612_CSC_144A": {
-        "data": {
-            "processing_time": {
-                "form_info_en": "Application for Waiver of the Foreign Residence Requirement (under Section 212(e) of the Immigration and Nationality Act, as Amended)",
-                "form_info_es": "Solicitud de Exenci\u00f3n del Requisito de Residencia en el Extranjero (bajo la Secci\u00f3n 212(e) de la  Ley de Inmigraci\u00f3n y Nacionalidad, seg\u00fan enmendada)",
-                "form_name": "I-612",
-                "form_note_en": null,
-                "form_note_es": null,
-                "office_code": "CSC",
-                "pilot_content_en": "We generally process cases in the order we receive them. This processing time is based on how long it took us to complete 80% of adjudicated cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
-                "pilot_content_es": "Generalmente procesamos los casos en el orden en que los recibimos. Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos llev\u00f3 completar el 80% de los casos adjudicados en los \u00faltimos seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
-                "pilot_form": true,
-                "range": [
-                    {
-                        "unit": "Months",
-                        "unit_en": "Months",
-                        "unit_es": "Meses",
-                        "value": 19
-                    },
-                    {
-                        "unit": "Months",
-                        "unit_en": "Months",
-                        "unit_es": "Meses",
-                        "value": 17.5
-                    }
-                ],
-                "subtypes": [
-                    {
-                        "form_type": "144A",
-                        "publication_date": "June 25, 2024",
-                        "range": [
-                            {
-                                "unit": "Months",
-                                "unit_en": "Months",
-                                "unit_es": "Meses",
-                                "value": 19
-                            },
-                            {
-                                "unit": "Months",
-                                "unit_en": "Months",
-                                "unit_es": "Meses",
-                                "value": 17.5
-                            }
-                        ],
-                        "service_request_date": "December 28, 2022",
-                        "service_request_date_en": "December 28, 2022",
-                        "service_request_date_es": "28 de diciembre de 2022",
-                        "subtype_info_en": "Application for a waiver of the 2-year foreign residence requirement based on exceptional hardship or persecution",
-                        "subtype_info_es": "Solicitud de Exoneraci\u00f3n del requisito de dos a\u00f1os de residencia en el extranjero basada en dificultades expepcionales o la persecuci\u00f3n",
-                        "subtype_note_en": "For Form I-612, Application for Waiver of the Foreign Residence Requirement, the Vermont Service Center processes only No Objection, Interested Government Agency, and Conrad cases. The California Service Center processes all other Form I-612 applications, including cases of exceptional hardship and cases of persecution.",
-                        "subtype_note_es": "En casos del Formulario I-612, Solicitud de Exenci\u00f3n del Requisito de Residencia en el Extranjero, el Centro de Servicio de Vermont procesa solamente los casos de no objeci\u00f3n, agencia gubernamental interesada y casos Conrad. El Centro de Servicio de California procesa todas las dem\u00e1s solicitudes del Formulario I-612, incluso casos de dificultades extremas y casos de persecuci\u00f3n."
-                    }
-                ]
-            }
-        },
-        "message": "Query was successful for payload {'form_name': 'I-612', 'office_code': 'CSC', 'form_type': '144A'}"
-    },
+    "last_refreshed": "Jul 27, 2024 08:44 AM",
     "I-612_ESC_144D": {
         "data": {
             "processing_time": {
@@ -101,9 +44,9 @@
                                 "value": 4
                             }
                         ],
-                        "service_request_date": "March 28, 2024",
-                        "service_request_date_en": "March 28, 2024",
-                        "service_request_date_es": "28 de marzo de 2024",
+                        "service_request_date": "March 29, 2024",
+                        "service_request_date_en": "March 29, 2024",
+                        "service_request_date_es": "29 de marzo de 2024",
                         "subtype_info_en": "Application for a waiver of the 2-year foreign residence requirement",
                         "subtype_info_es": "Solicitud de Exoneraci\u00f3n del requisito de dos a\u00f1os de residencia en el extranjero",
                         "subtype_note_en": "For Form I-612, Application for Waiver of the Foreign Residence Requirement, the Vermont Service Center processes only No Objection, Interested Government Agency, and Conrad cases. The California Service Center processes all other Form I-612 applications, including cases of exceptional hardship and cases of persecution.",
