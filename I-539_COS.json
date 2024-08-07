@@ -1,5 +1,5 @@
 {
-    "last_refreshed": "Aug 06, 2024 07:28 AM",
+    "last_refreshed": "Aug 07, 2024 08:01 AM",
     "I-539_CSC_139A-H": {
         "data": {
             "processing_time": {
@@ -17,7 +17,7 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 5
+                        "value": 4.5
                     },
                     {
                         "unit": "Months",
@@ -29,13 +29,13 @@
                 "subtypes": [
                     {
                         "form_type": "139A-H",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 5
+                                "value": 4.5
                             },
                             {
                                 "unit": "Months",
@@ -44,9 +44,9 @@
                                 "value": 3.5
                             }
                         ],
-                        "service_request_date": "March 21, 2024",
-                        "service_request_date_en": "March 21, 2024",
-                        "service_request_date_es": "21 de marzo de 2024",
+                        "service_request_date": "March 26, 2024",
+                        "service_request_date_en": "March 26, 2024",
+                        "service_request_date_es": "26 de marzo de 2024",
                         "subtype_info_en": "Change of status to H4 dependents",
                         "subtype_info_es": "Cambio de estatus al de dependiente H-4",
                         "subtype_note_en": null,
@@ -86,7 +86,7 @@
                 "subtypes": [
                     {
                         "form_type": "139A-H",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -101,9 +101,9 @@
                                 "value": 5
                             }
                         ],
-                        "service_request_date": "January 23, 2024",
-                        "service_request_date_en": "January 23, 2024",
-                        "service_request_date_es": "23 de enero de 2024",
+                        "service_request_date": "January 30, 2024",
+                        "service_request_date_en": "January 30, 2024",
+                        "service_request_date_es": "30 de enero de 2024",
                         "subtype_info_en": "Change of status to H4 dependents",
                         "subtype_info_es": "Cambio de estatus al de dependiente H-4",
                         "subtype_note_en": null,
@@ -143,7 +143,7 @@
                 "subtypes": [
                     {
                         "form_type": "139A-H",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -158,9 +158,9 @@
                                 "value": 7
                             }
                         ],
-                        "service_request_date": "December 17, 2023",
-                        "service_request_date_en": "December 17, 2023",
-                        "service_request_date_es": "17 de diciembre de 2023",
+                        "service_request_date": "December 19, 2023",
+                        "service_request_date_en": "December 19, 2023",
+                        "service_request_date_es": "19 de diciembre de 2023",
                         "subtype_info_en": "Change of status to H4 dependents",
                         "subtype_info_es": "Cambio de estatus al de dependiente H-4",
                         "subtype_note_en": null,
@@ -200,7 +200,7 @@
                 "subtypes": [
                     {
                         "form_type": "139A-H",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -215,9 +215,9 @@
                                 "value": 8
                             }
                         ],
-                        "service_request_date": "December 08, 2023",
-                        "service_request_date_en": "December 08, 2023",
-                        "service_request_date_es": "08 de diciembre de 2023",
+                        "service_request_date": "December 06, 2023",
+                        "service_request_date_en": "December 06, 2023",
+                        "service_request_date_es": "06 de diciembre de 2023",
                         "subtype_info_en": "Change of status to H4 dependents",
                         "subtype_info_es": "Cambio de estatus al de dependiente H-4",
                         "subtype_note_en": null,
@@ -257,7 +257,7 @@
                 "subtypes": [
                     {
                         "form_type": "139AC-H",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -272,9 +272,9 @@
                                 "value": 3.5
                             }
                         ],
-                        "service_request_date": "April 08, 2024",
-                        "service_request_date_en": "April 08, 2024",
-                        "service_request_date_es": "08 de abril de 2024",
+                        "service_request_date": "April 09, 2024",
+                        "service_request_date_en": "April 09, 2024",
+                        "service_request_date_es": "09 de abril de 2024",
                         "subtype_info_en": "Change of status to H4 dependent with I-765",
                         "subtype_info_es": "Cambio de estatus al de dependiente H-4 con I-765",
                         "subtype_note_en": null,
@@ -302,36 +302,36 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 6
+                        "value": 5.5
                     },
                     {
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 5
+                        "value": 4.5
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "139AC-H",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 6
+                                "value": 5.5
                             },
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 5
+                                "value": 4.5
                             }
                         ],
-                        "service_request_date": "February 18, 2024",
-                        "service_request_date_en": "February 18, 2024",
-                        "service_request_date_es": "18 de febrero de 2024",
+                        "service_request_date": "February 24, 2024",
+                        "service_request_date_en": "February 24, 2024",
+                        "service_request_date_es": "24 de febrero de 2024",
                         "subtype_info_en": "Change of status to H4 dependent with I-765",
                         "subtype_info_es": "Cambio de estatus al de dependiente H-4 con I-765",
                         "subtype_note_en": null,
@@ -371,7 +371,7 @@
                 "subtypes": [
                     {
                         "form_type": "139AC-H",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -386,9 +386,9 @@
                                 "value": 6
                             }
                         ],
-                        "service_request_date": "January 15, 2024",
-                        "service_request_date_en": "January 15, 2024",
-                        "service_request_date_es": "15 de enero de 2024",
+                        "service_request_date": "January 10, 2024",
+                        "service_request_date_en": "January 10, 2024",
+                        "service_request_date_es": "10 de enero de 2024",
                         "subtype_info_en": "Change of status to H4 dependent with I-765",
                         "subtype_info_es": "Cambio de estatus al de dependiente H-4 con I-765",
                         "subtype_note_en": null,
@@ -428,7 +428,7 @@
                 "subtypes": [
                     {
                         "form_type": "139AC-H",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -473,36 +473,36 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 7.5
+                        "value": 7
                     },
                     {
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 4.5
+                        "value": 3.5
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "139A-B",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 7.5
+                                "value": 7
                             },
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 4.5
+                                "value": 3.5
                             }
                         ],
-                        "service_request_date": "January 01, 2024",
-                        "service_request_date_en": "January 01, 2024",
-                        "service_request_date_es": "01 de enero de 2024",
+                        "service_request_date": "January 22, 2024",
+                        "service_request_date_en": "January 22, 2024",
+                        "service_request_date_es": "22 de enero de 2024",
                         "subtype_info_en": "Change of status to B nonimmigrant",
                         "subtype_info_es": "Cambio de estatus al de no inmigrante B",
                         "subtype_note_en": null,
@@ -530,7 +530,7 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 5
+                        "value": 5.5
                     },
                     {
                         "unit": "Months",
@@ -542,13 +542,13 @@
                 "subtypes": [
                     {
                         "form_type": "139A-B",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 5
+                                "value": 5.5
                             },
                             {
                                 "unit": "Months",
@@ -599,7 +599,7 @@
                 "subtypes": [
                     {
                         "form_type": "139A-B",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -614,9 +614,9 @@
                                 "value": 4
                             }
                         ],
-                        "service_request_date": "March 16, 2024",
-                        "service_request_date_en": "March 16, 2024",
-                        "service_request_date_es": "16 de marzo de 2024",
+                        "service_request_date": "March 19, 2024",
+                        "service_request_date_en": "March 19, 2024",
+                        "service_request_date_es": "19 de marzo de 2024",
                         "subtype_info_en": "Change of status to B nonimmigrant",
                         "subtype_info_es": "Cambio de estatus al de no inmigrante B",
                         "subtype_note_en": null,
@@ -656,7 +656,7 @@
                 "subtypes": [
                     {
                         "form_type": "139A-B",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -671,9 +671,9 @@
                                 "value": 6
                             }
                         ],
-                        "service_request_date": "January 17, 2024",
-                        "service_request_date_en": "January 17, 2024",
-                        "service_request_date_es": "17 de enero de 2024",
+                        "service_request_date": "January 20, 2024",
+                        "service_request_date_en": "January 20, 2024",
+                        "service_request_date_es": "20 de enero de 2024",
                         "subtype_info_en": "Change of status to B nonimmigrant",
                         "subtype_info_es": "Cambio de estatus al de no inmigrante B",
                         "subtype_note_en": null,
@@ -713,7 +713,7 @@
                 "subtypes": [
                     {
                         "form_type": "139A-B",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -728,9 +728,9 @@
                                 "value": 4
                             }
                         ],
-                        "service_request_date": "March 14, 2024",
-                        "service_request_date_en": "March 14, 2024",
-                        "service_request_date_es": "14 de marzo de 2024",
+                        "service_request_date": "March 15, 2024",
+                        "service_request_date_en": "March 15, 2024",
+                        "service_request_date_es": "15 de marzo de 2024",
                         "subtype_info_en": "Change of status to B nonimmigrant",
                         "subtype_info_es": "Cambio de estatus al de no inmigrante B",
                         "subtype_note_en": null,
@@ -758,36 +758,36 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 5.5
+                        "value": 5
                     },
                     {
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 4.5
+                        "value": 4
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "139A-FMJ",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 5.5
+                                "value": 5
                             },
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 4.5
+                                "value": 4
                             }
                         ],
-                        "service_request_date": "February 22, 2024",
-                        "service_request_date_en": "February 22, 2024",
-                        "service_request_date_es": "22 de febrero de 2024",
+                        "service_request_date": "March 08, 2024",
+                        "service_request_date_en": "March 08, 2024",
+                        "service_request_date_es": "08 de marzo de 2024",
                         "subtype_info_en": "Change of status to F or M student or J exchange visitor category",
                         "subtype_info_es": "Cambio de estatus al de estudiante F o M o al de categor\u00eda de visitante de intercambio J",
                         "subtype_note_en": null,
@@ -827,7 +827,7 @@
                 "subtypes": [
                     {
                         "form_type": "139A-FMJ",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -842,9 +842,9 @@
                                 "value": 4.5
                             }
                         ],
-                        "service_request_date": "January 21, 2024",
-                        "service_request_date_en": "January 21, 2024",
-                        "service_request_date_es": "21 de enero de 2024",
+                        "service_request_date": "January 18, 2024",
+                        "service_request_date_en": "January 18, 2024",
+                        "service_request_date_es": "18 de enero de 2024",
                         "subtype_info_en": "Change of status to F or M student or J exchange visitor category",
                         "subtype_info_es": "Cambio de estatus al de estudiante F o M o al de categor\u00eda de visitante de intercambio J",
                         "subtype_note_en": null,
@@ -884,7 +884,7 @@
                 "subtypes": [
                     {
                         "form_type": "139A-FMJ",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -899,9 +899,9 @@
                                 "value": 4.5
                             }
                         ],
-                        "service_request_date": "March 13, 2024",
-                        "service_request_date_en": "March 13, 2024",
-                        "service_request_date_es": "13 de marzo de 2024",
+                        "service_request_date": "March 14, 2024",
+                        "service_request_date_en": "March 14, 2024",
+                        "service_request_date_es": "14 de marzo de 2024",
                         "subtype_info_en": "Change of status to F or M student or J exchange visitor category",
                         "subtype_info_es": "Cambio de estatus al de estudiante F o M o al de categor\u00eda de visitante de intercambio J",
                         "subtype_note_en": null,
@@ -929,36 +929,36 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 7
+                        "value": 7.5
                     },
                     {
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 6
+                        "value": 6.5
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "139A-FMJ",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 7
+                                "value": 7.5
                             },
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 6
+                                "value": 6.5
                             }
                         ],
-                        "service_request_date": "January 20, 2024",
-                        "service_request_date_en": "January 20, 2024",
-                        "service_request_date_es": "20 de enero de 2024",
+                        "service_request_date": "January 06, 2024",
+                        "service_request_date_en": "January 06, 2024",
+                        "service_request_date_es": "06 de enero de 2024",
                         "subtype_info_en": "Change of status to F or M student or J exchange visitor category",
                         "subtype_info_es": "Cambio de estatus al de estudiante F o M o al de categor\u00eda de visitante de intercambio J",
                         "subtype_note_en": null,
@@ -998,7 +998,7 @@
                 "subtypes": [
                     {
                         "form_type": "139A-FMJ",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -1013,9 +1013,9 @@
                                 "value": 5
                             }
                         ],
-                        "service_request_date": "March 03, 2024",
-                        "service_request_date_en": "March 03, 2024",
-                        "service_request_date_es": "03 de marzo de 2024",
+                        "service_request_date": "March 05, 2024",
+                        "service_request_date_en": "March 05, 2024",
+                        "service_request_date_es": "05 de marzo de 2024",
                         "subtype_info_en": "Change of status to F or M student or J exchange visitor category",
                         "subtype_info_es": "Cambio de estatus al de estudiante F o M o al de categor\u00eda de visitante de intercambio J",
                         "subtype_note_en": null,
@@ -1043,7 +1043,7 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 13.5
+                        "value": 12.5
                     },
                     {
                         "unit": "Months",
@@ -1055,13 +1055,13 @@
                 "subtypes": [
                     {
                         "form_type": "139A-L",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 13.5
+                                "value": 12.5
                             },
                             {
                                 "unit": "Months",
@@ -1070,9 +1070,9 @@
                                 "value": 5
                             }
                         ],
-                        "service_request_date": "July 03, 2023",
-                        "service_request_date_en": "July 03, 2023",
-                        "service_request_date_es": "03 de julio de 2023",
+                        "service_request_date": "August 02, 2023",
+                        "service_request_date_en": "August 02, 2023",
+                        "service_request_date_es": "02 de agosto de 2023",
                         "subtype_info_en": "Change of status to L dependent",
                         "subtype_info_es": "Cambio de estatus al de dependiente L",
                         "subtype_note_en": null,
@@ -1106,13 +1106,13 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 4.5
+                        "value": 5
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "139A-L",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -1124,12 +1124,12 @@
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 4.5
+                                "value": 5
                             }
                         ],
-                        "service_request_date": "January 08, 2024",
-                        "service_request_date_en": "January 08, 2024",
-                        "service_request_date_es": "08 de enero de 2024",
+                        "service_request_date": "January 13, 2024",
+                        "service_request_date_en": "January 13, 2024",
+                        "service_request_date_es": "13 de enero de 2024",
                         "subtype_info_en": "Change of status to L dependent",
                         "subtype_info_es": "Cambio de estatus al de dependiente L",
                         "subtype_note_en": null,
@@ -1157,36 +1157,36 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 14.5
+                        "value": 11.5
                     },
                     {
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 6
+                        "value": 5.5
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "139A-OTH",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 14.5
+                                "value": 11.5
                             },
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 6
+                                "value": 5.5
                             }
                         ],
-                        "service_request_date": "June 06, 2023",
-                        "service_request_date_en": "June 06, 2023",
-                        "service_request_date_es": "06 de junio de 2023",
+                        "service_request_date": "August 30, 2023",
+                        "service_request_date_en": "August 30, 2023",
+                        "service_request_date_es": "30 de agosto de 2023",
                         "subtype_info_en": "All other change of status applications",
                         "subtype_info_es": "Todas las dem\u00e1s solicitudes de cambio de estatus",
                         "subtype_note_en": null,
