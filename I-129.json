@@ -1,5 +1,5 @@
 {
-    "last_refreshed": "Aug 06, 2024 07:28 AM",
+    "last_refreshed": "Aug 07, 2024 08:04 AM",
     "I-129_CSC_137-H1B1": {
         "data": {
             "processing_time": {
@@ -17,36 +17,36 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 7.5
+                        "value": 8.5
                     },
                     {
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 6
+                        "value": 6.5
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "137-H1B1",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 7.5
+                                "value": 8.5
                             },
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 6
+                                "value": 6.5
                             }
                         ],
-                        "service_request_date": "December 25, 2023",
-                        "service_request_date_en": "December 25, 2023",
-                        "service_request_date_es": "25 de diciembre de 2023",
+                        "service_request_date": "December 05, 2023",
+                        "service_request_date_en": "December 05, 2023",
+                        "service_request_date_es": "05 de diciembre de 2023",
                         "subtype_info_en": "H-1B - Specialty occupation - Visa to be issued abroad",
                         "subtype_info_es": "H-1B - Ocupaci\u00f3n especial - visa que se expedir\u00e1 en el exterior",
                         "subtype_note_en": "This classification contains high season volume due to congressional mandated numerical limitations. As such, processing times may vary throughout the year.",
@@ -86,7 +86,7 @@
                 "subtypes": [
                     {
                         "form_type": "137-H1B1",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -131,36 +131,36 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 8
+                        "value": 8.5
                     },
                     {
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 6.5
+                        "value": 7.5
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "137-H1B1",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 8
+                                "value": 8.5
                             },
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 6.5
+                                "value": 7.5
                             }
                         ],
-                        "service_request_date": "December 14, 2023",
-                        "service_request_date_en": "December 14, 2023",
-                        "service_request_date_es": "14 de diciembre de 2023",
+                        "service_request_date": "November 25, 2023",
+                        "service_request_date_en": "November 25, 2023",
+                        "service_request_date_es": "25 de noviembre de 2023",
                         "subtype_info_en": "H-1B - Specialty occupation - Visa to be issued abroad",
                         "subtype_info_es": "H-1B - Ocupaci\u00f3n especial - visa que se expedir\u00e1 en el exterior",
                         "subtype_note_en": "This classification contains high season volume due to congressional mandated numerical limitations. As such, processing times may vary throughout the year.",
@@ -188,36 +188,36 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 6
+                        "value": 5.5
                     },
                     {
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 4
+                        "value": 3.5
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "137-H1B2",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 6
+                                "value": 5.5
                             },
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 4
+                                "value": 3.5
                             }
                         ],
-                        "service_request_date": "February 06, 2024",
-                        "service_request_date_en": "February 06, 2024",
-                        "service_request_date_es": "06 de febrero de 2024",
+                        "service_request_date": "February 29, 2024",
+                        "service_request_date_en": "February 29, 2024",
+                        "service_request_date_es": "29 de febrero de 2024",
                         "subtype_info_en": "H-1B - Specialty occupation - Change of status in the U.S.",
                         "subtype_info_es": "H-1B - Ocupaci\u00f3n especial - cambio de la condici\u00f3n migratoria en los E.E.U.U.",
                         "subtype_note_en": "This classification contains high season volume due to congressional mandated numerical limitations. As such, processing times may vary throughout the year.",
@@ -245,7 +245,7 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 6.5
+                        "value": 5
                     },
                     {
                         "unit": "Months",
@@ -257,13 +257,13 @@
                 "subtypes": [
                     {
                         "form_type": "137-H1B2",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 6.5
+                                "value": 5
                             },
                             {
                                 "unit": "Months",
@@ -272,9 +272,9 @@
                                 "value": 4
                             }
                         ],
-                        "service_request_date": "January 30, 2024",
-                        "service_request_date_en": "January 30, 2024",
-                        "service_request_date_es": "30 de enero de 2024",
+                        "service_request_date": "March 10, 2024",
+                        "service_request_date_en": "March 10, 2024",
+                        "service_request_date_es": "10 de marzo de 2024",
                         "subtype_info_en": "H-1B - Specialty occupation - Change of status in the U.S.",
                         "subtype_info_es": "H-1B - Ocupaci\u00f3n especial - cambio de la condici\u00f3n migratoria en los E.E.U.U.",
                         "subtype_note_en": "This classification contains high season volume due to congressional mandated numerical limitations. As such, processing times may vary throughout the year.",
@@ -302,36 +302,36 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 7
+                        "value": 7.5
                     },
                     {
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 5.5
+                        "value": 5
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "137-H1B2",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 7
+                                "value": 7.5
                             },
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 5.5
+                                "value": 5
                             }
                         ],
-                        "service_request_date": "January 07, 2024",
-                        "service_request_date_en": "January 07, 2024",
-                        "service_request_date_es": "07 de enero de 2024",
+                        "service_request_date": "December 29, 2023",
+                        "service_request_date_en": "December 29, 2023",
+                        "service_request_date_es": "29 de diciembre de 2023",
                         "subtype_info_en": "H-1B - Specialty occupation - Change of status in the U.S.",
                         "subtype_info_es": "H-1B - Ocupaci\u00f3n especial - cambio de la condici\u00f3n migratoria en los E.E.U.U.",
                         "subtype_note_en": "This classification contains high season volume due to congressional mandated numerical limitations. As such, processing times may vary throughout the year.",
@@ -359,7 +359,7 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 4.5
+                        "value": 4
                     },
                     {
                         "unit": "Months",
@@ -371,13 +371,13 @@
                 "subtypes": [
                     {
                         "form_type": "137-H1B3",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 4.5
+                                "value": 4
                             },
                             {
                                 "unit": "Months",
@@ -386,9 +386,9 @@
                                 "value": 3
                             }
                         ],
-                        "service_request_date": "April 05, 2024",
-                        "service_request_date_en": "April 05, 2024",
-                        "service_request_date_es": "05 de abril de 2024",
+                        "service_request_date": "April 12, 2024",
+                        "service_request_date_en": "April 12, 2024",
+                        "service_request_date_es": "12 de abril de 2024",
                         "subtype_info_en": "H-1B - Specialty occupation - Extension of stay in the U.S.",
                         "subtype_info_es": "H-1B - Ocupaci\u00f3n especial - extensi\u00f3n de la estad\u00eda en los E.E.U.U.",
                         "subtype_note_en": "This classification contains high season volume due to congressional mandated numerical limitations. As such, processing times may vary throughout the year.",
@@ -416,36 +416,36 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 7
+                        "value": 6.5
                     },
                     {
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 6.5
+                        "value": 6
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "137-H1B3",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 7
+                                "value": 6.5
                             },
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 6.5
+                                "value": 6
                             }
                         ],
-                        "service_request_date": "January 11, 2024",
-                        "service_request_date_en": "January 11, 2024",
-                        "service_request_date_es": "11 de enero de 2024",
+                        "service_request_date": "January 31, 2024",
+                        "service_request_date_en": "January 31, 2024",
+                        "service_request_date_es": "31 de enero de 2024",
                         "subtype_info_en": "H-1B - Specialty occupation - Extension of stay in the U.S.",
                         "subtype_info_es": "H-1B - Ocupaci\u00f3n especial - extensi\u00f3n de la estad\u00eda en los E.E.U.U.",
                         "subtype_note_en": "This classification contains high season volume due to congressional mandated numerical limitations. As such, processing times may vary throughout the year.",
@@ -485,7 +485,7 @@
                 "subtypes": [
                     {
                         "form_type": "137-H1B3",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -500,9 +500,9 @@
                                 "value": 7
                             }
                         ],
-                        "service_request_date": "December 26, 2023",
-                        "service_request_date_en": "December 26, 2023",
-                        "service_request_date_es": "26 de diciembre de 2023",
+                        "service_request_date": "December 27, 2023",
+                        "service_request_date_en": "December 27, 2023",
+                        "service_request_date_es": "27 de diciembre de 2023",
                         "subtype_info_en": "H-1B - Specialty occupation - Extension of stay in the U.S.",
                         "subtype_info_es": "H-1B - Ocupaci\u00f3n especial - extensi\u00f3n de la estad\u00eda en los E.E.U.U.",
                         "subtype_note_en": "This classification contains high season volume due to congressional mandated numerical limitations. As such, processing times may vary throughout the year.",
@@ -530,36 +530,36 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 4.5
+                        "value": 3
                     },
                     {
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 3.5
+                        "value": 2.5
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "137-H1B3",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 4.5
+                                "value": 3
                             },
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 3.5
+                                "value": 2.5
                             }
                         ],
-                        "service_request_date": "April 06, 2024",
-                        "service_request_date_en": "April 06, 2024",
-                        "service_request_date_es": "06 de abril de 2024",
+                        "service_request_date": "May 10, 2024",
+                        "service_request_date_en": "May 10, 2024",
+                        "service_request_date_es": "10 de mayo de 2024",
                         "subtype_info_en": "H-1B - Specialty occupation - Extension of stay in the U.S.",
                         "subtype_info_es": "H-1B - Ocupaci\u00f3n especial - extensi\u00f3n de la estad\u00eda en los E.E.U.U.",
                         "subtype_note_en": "This classification contains high season volume due to congressional mandated numerical limitations. As such, processing times may vary throughout the year.",
@@ -587,7 +587,7 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 6
+                        "value": 5.5
                     },
                     {
                         "unit": "Months",
@@ -599,13 +599,13 @@
                 "subtypes": [
                     {
                         "form_type": "137-L",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 6
+                                "value": 5.5
                             },
                             {
                                 "unit": "Months",
@@ -614,9 +614,9 @@
                                 "value": 4.5
                             }
                         ],
-                        "service_request_date": "February 18, 2024",
-                        "service_request_date_en": "February 18, 2024",
-                        "service_request_date_es": "18 de febrero de 2024",
+                        "service_request_date": "February 29, 2024",
+                        "service_request_date_en": "February 29, 2024",
+                        "service_request_date_es": "29 de febrero de 2024",
                         "subtype_info_en": "Intracompany transferees and blanket L",
                         "subtype_info_es": "Ejecutivos transferidos dentro una misma empresa y petici\u00f3n general L",
                         "subtype_note_en": null,
@@ -644,7 +644,7 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 7
+                        "value": 7.5
                     },
                     {
                         "unit": "Months",
@@ -656,13 +656,13 @@
                 "subtypes": [
                     {
                         "form_type": "137-L",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 7
+                                "value": 7.5
                             },
                             {
                                 "unit": "Months",
@@ -671,9 +671,9 @@
                                 "value": 5
                             }
                         ],
-                        "service_request_date": "January 09, 2024",
-                        "service_request_date_en": "January 09, 2024",
-                        "service_request_date_es": "09 de enero de 2024",
+                        "service_request_date": "December 29, 2023",
+                        "service_request_date_en": "December 29, 2023",
+                        "service_request_date_es": "29 de diciembre de 2023",
                         "subtype_info_en": "Intracompany transferees and blanket L",
                         "subtype_info_es": "Ejecutivos transferidos dentro una misma empresa y petici\u00f3n general L",
                         "subtype_note_en": null,
@@ -701,7 +701,7 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 15.5
+                        "value": 11.5
                     },
                     {
                         "unit": "Months",
@@ -713,13 +713,13 @@
                 "subtypes": [
                     {
                         "form_type": "137-E",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 15.5
+                                "value": 11.5
                             },
                             {
                                 "unit": "Months",
@@ -728,9 +728,9 @@
                                 "value": 6.5
                             }
                         ],
-                        "service_request_date": "April 30, 2023",
-                        "service_request_date_en": "April 30, 2023",
-                        "service_request_date_es": "30 de abril de 2023",
+                        "service_request_date": "August 29, 2023",
+                        "service_request_date_en": "August 29, 2023",
+                        "service_request_date_es": "29 de agosto de 2023",
                         "subtype_info_en": "E - Treaty traders and investors",
                         "subtype_info_es": "E - Comerciantes e inversionistas",
                         "subtype_note_en": null,
@@ -770,7 +770,7 @@
                 "subtypes": [
                     {
                         "form_type": "137-E3",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -785,9 +785,9 @@
                                 "value": 3
                             }
                         ],
-                        "service_request_date": "February 05, 2024",
-                        "service_request_date_en": "February 05, 2024",
-                        "service_request_date_es": "05 de febrero de 2024",
+                        "service_request_date": "January 24, 2024",
+                        "service_request_date_en": "January 24, 2024",
+                        "service_request_date_es": "24 de enero de 2024",
                         "subtype_info_en": "E3 - Specialty occupation workers from Australia",
                         "subtype_info_es": "E-3 para Trabajadores Australianos en Trabajos Especializados",
                         "subtype_note_en": "We generally process cases in the order we receive them. These processing times are based on how long it took us to complete 80% of adjudications over the past twelve months. Due to overall low volume of initial receipts and completions we are using the past twelve months for this classification. Each case is unique, and some cases may take longer than others to process. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
@@ -827,7 +827,7 @@
                 "subtypes": [
                     {
                         "form_type": "137-H2A",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Month",
@@ -842,9 +842,9 @@
                                 "value": 15
                             }
                         ],
-                        "service_request_date": "July 22, 2024",
-                        "service_request_date_en": "July 22, 2024",
-                        "service_request_date_es": "22 de julio de 2024",
+                        "service_request_date": "July 23, 2024",
+                        "service_request_date_en": "July 23, 2024",
+                        "service_request_date_es": "23 de julio de 2024",
                         "subtype_info_en": "H-2A - Temporary agricultural workers",
                         "subtype_info_es": "H-2A - Trabajadores agr\u00edcolas temporales",
                         "subtype_note_en": "If you are a petitioner for an H-2A Temporary Agricultural Worker and your Form I-129 has been pending longer than 15 days and you have not received a decision or a Request for Evidence, you may contact USCIS at (1-800) 375-5283 to inquire about your petition.",
@@ -872,7 +872,7 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 3.5
+                        "value": 3
                     },
                     {
                         "unit": "Months",
@@ -884,13 +884,13 @@
                 "subtypes": [
                     {
                         "form_type": "137-H2B",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 3.5
+                                "value": 3
                             },
                             {
                                 "unit": "Months",
@@ -899,9 +899,9 @@
                                 "value": 1.5
                             }
                         ],
-                        "service_request_date": "April 28, 2024",
-                        "service_request_date_en": "April 28, 2024",
-                        "service_request_date_es": "28 de abril de 2024",
+                        "service_request_date": "May 10, 2024",
+                        "service_request_date_en": "May 10, 2024",
+                        "service_request_date_es": "10 de mayo de 2024",
                         "subtype_info_en": "H-2B - Temporary nonagricultural workers",
                         "subtype_info_es": "H-2B - Trabajadores temporal no agr\u00edcolas",
                         "subtype_note_en": "This classification contains high season volume due to congressional mandated numerical limitations. As such, processing times may vary throughout the year.",
@@ -929,7 +929,7 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 5
+                        "value": 4.5
                     },
                     {
                         "unit": "Months",
@@ -941,13 +941,13 @@
                 "subtypes": [
                     {
                         "form_type": "137-H2B",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 5
+                                "value": 4.5
                             },
                             {
                                 "unit": "Months",
@@ -956,9 +956,9 @@
                                 "value": 2.5
                             }
                         ],
-                        "service_request_date": "March 15, 2024",
-                        "service_request_date_en": "March 15, 2024",
-                        "service_request_date_es": "15 de marzo de 2024",
+                        "service_request_date": "March 29, 2024",
+                        "service_request_date_en": "March 29, 2024",
+                        "service_request_date_es": "29 de marzo de 2024",
                         "subtype_info_en": "H-2B - Temporary nonagricultural workers",
                         "subtype_info_es": "H-2B - Trabajadores temporal no agr\u00edcolas",
                         "subtype_note_en": "***This classification contains high season volume due to congressional mandated numerical limitations. As such, processing times may vary throughout the year.*** We generally process cases in the order we receive them. These processing times are based on how long it took us to complete 80% of adjudications over the past twelve months. Due to overall low volume of initial receipts and completions we are using the past twelve months for this classification. Each case is unique, and some cases may take longer than others to process. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
@@ -992,13 +992,13 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 12
+                        "value": 12.5
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "137-H3",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -1010,12 +1010,12 @@
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 12
+                                "value": 12.5
                             }
                         ],
-                        "service_request_date": "October 30, 2022",
-                        "service_request_date_en": "October 30, 2022",
-                        "service_request_date_es": "30 de octubre de 2022",
+                        "service_request_date": "October 31, 2022",
+                        "service_request_date_en": "October 31, 2022",
+                        "service_request_date_es": "31 de octubre de 2022",
                         "subtype_info_en": "H-3 - Temporary trainees",
                         "subtype_info_es": "H-3 - Aprendices temporales",
                         "subtype_note_en": "We generally process cases in the order we receive them. These processing times are based on how long it took us to complete 80% of adjudications over the past twelve months. Due to overall low volume of initial receipts and completions we are using the past twelve months for this classification. Each case is unique, and some cases may take longer than others to process. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
@@ -1043,7 +1043,7 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 10.5
+                        "value": 12.5
                     },
                     {
                         "unit": "Months",
@@ -1055,13 +1055,13 @@
                 "subtypes": [
                     {
                         "form_type": "137-H3",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 10.5
+                                "value": 12.5
                             },
                             {
                                 "unit": "Months",
@@ -1070,9 +1070,9 @@
                                 "value": 6
                             }
                         ],
-                        "service_request_date": "October 01, 2023",
-                        "service_request_date_en": "October 01, 2023",
-                        "service_request_date_es": "01 de octubre de 2023",
+                        "service_request_date": "July 28, 2023",
+                        "service_request_date_en": "July 28, 2023",
+                        "service_request_date_es": "28 de julio de 2023",
                         "subtype_info_en": "H-3 - Temporary trainees",
                         "subtype_info_es": "H-3 - Aprendices temporales",
                         "subtype_note_en": "We generally process cases in the order we receive them. These processing times are based on how long it took us to complete 80% of adjudications over the past twelve months. Due to overall low volume of initial receipts and completions we are using the past twelve months for this classification. Each case is unique, and some cases may take longer than others to process. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
@@ -1100,7 +1100,7 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 9
+                        "value": 9.5
                     },
                     {
                         "unit": "Months",
@@ -1112,13 +1112,13 @@
                 "subtypes": [
                     {
                         "form_type": "137-O",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 9
+                                "value": 9.5
                             },
                             {
                                 "unit": "Months",
@@ -1127,9 +1127,9 @@
                                 "value": 6
                             }
                         ],
-                        "service_request_date": "November 16, 2023",
-                        "service_request_date_en": "November 16, 2023",
-                        "service_request_date_es": "16 de noviembre de 2023",
+                        "service_request_date": "November 07, 2023",
+                        "service_request_date_en": "November 07, 2023",
+                        "service_request_date_es": "07 de noviembre de 2023",
                         "subtype_info_en": "O - Extraordinary ability",
                         "subtype_info_es": "O - Capacidad extraordinaria",
                         "subtype_note_en": null,
@@ -1169,7 +1169,7 @@
                 "subtypes": [
                     {
                         "form_type": "137-O",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -1184,9 +1184,9 @@
                                 "value": 2.5
                             }
                         ],
-                        "service_request_date": "March 02, 2024",
-                        "service_request_date_en": "March 02, 2024",
-                        "service_request_date_es": "02 de marzo de 2024",
+                        "service_request_date": "March 05, 2024",
+                        "service_request_date_en": "March 05, 2024",
+                        "service_request_date_es": "05 de marzo de 2024",
                         "subtype_info_en": "O - Extraordinary ability",
                         "subtype_info_es": "O - Capacidad extraordinaria",
                         "subtype_note_en": null,
@@ -1214,36 +1214,36 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 11.5
+                        "value": 12.5
                     },
                     {
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 5.5
+                        "value": 6
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "137-P",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 11.5
+                                "value": 12.5
                             },
                             {
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 5.5
+                                "value": 6
                             }
                         ],
-                        "service_request_date": "September 06, 2023",
-                        "service_request_date_en": "September 06, 2023",
-                        "service_request_date_es": "06 de septiembre de 2023",
+                        "service_request_date": "July 26, 2023",
+                        "service_request_date_en": "July 26, 2023",
+                        "service_request_date_es": "26 de julio de 2023",
                         "subtype_info_en": "P - Athletes, artists, and entertainers",
                         "subtype_info_es": "P - Atletas, artistas, y actores",
                         "subtype_note_en": null,
@@ -1283,7 +1283,7 @@
                 "subtypes": [
                     {
                         "form_type": "137-P",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -1298,9 +1298,9 @@
                                 "value": 2
                             }
                         ],
-                        "service_request_date": "March 24, 2024",
-                        "service_request_date_en": "March 24, 2024",
-                        "service_request_date_es": "24 de marzo de 2024",
+                        "service_request_date": "March 27, 2024",
+                        "service_request_date_en": "March 27, 2024",
+                        "service_request_date_es": "27 de marzo de 2024",
                         "subtype_info_en": "P - Athletes, artists, and entertainers",
                         "subtype_info_es": "P - Atletas, artistas, y actores",
                         "subtype_note_en": null,
@@ -1334,13 +1334,13 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 12.5
+                        "value": 12
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "137-Q",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -1352,12 +1352,12 @@
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 12.5
+                                "value": 12
                             }
                         ],
-                        "service_request_date": "August 25, 2022",
-                        "service_request_date_en": "August 25, 2022",
-                        "service_request_date_es": "25 de agosto de 2022",
+                        "service_request_date": "August 26, 2022",
+                        "service_request_date_en": "August 26, 2022",
+                        "service_request_date_es": "26 de agosto de 2022",
                         "subtype_info_en": "Q - Cultural exchange visitors",
                         "subtype_info_es": "Q - Visitantes de intercambio cultural",
                         "subtype_note_en": "We generally process cases in the order we receive them. These processing times are based on how long it took us to complete 80% of adjudications over the past twelve months. Due to overall low volume of initial receipts and completions we are using the past twelve months for this classification. Each case is unique, and some cases may take longer than others to process. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
@@ -1391,13 +1391,13 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 12.5
+                        "value": 12
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "137-Q",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -1409,12 +1409,12 @@
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 12.5
+                                "value": 12
                             }
                         ],
-                        "service_request_date": "August 25, 2022",
-                        "service_request_date_en": "August 25, 2022",
-                        "service_request_date_es": "25 de agosto de 2022",
+                        "service_request_date": "August 26, 2022",
+                        "service_request_date_en": "August 26, 2022",
+                        "service_request_date_es": "26 de agosto de 2022",
                         "subtype_info_en": "Q - Cultural exchange visitors",
                         "subtype_info_es": "Q - Visitantes de intercambio cultural",
                         "subtype_note_en": null,
@@ -1454,7 +1454,7 @@
                 "subtypes": [
                     {
                         "form_type": "137-R",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -1469,9 +1469,9 @@
                                 "value": 3
                             }
                         ],
-                        "service_request_date": "March 09, 2024",
-                        "service_request_date_en": "March 09, 2024",
-                        "service_request_date_es": "09 de marzo de 2024",
+                        "service_request_date": "March 10, 2024",
+                        "service_request_date_en": "March 10, 2024",
+                        "service_request_date_es": "10 de marzo de 2024",
                         "subtype_info_en": "R - Religious occupation",
                         "subtype_info_es": "R - Ocupaci\u00f3n religiosa",
                         "subtype_note_en": null,
@@ -1505,13 +1505,13 @@
                         "unit": "Months",
                         "unit_en": "Months",
                         "unit_es": "Meses",
-                        "value": 2.5
+                        "value": 3
                     }
                 ],
                 "subtypes": [
                     {
                         "form_type": "137-TN",
-                        "publication_date": "June 25, 2024",
+                        "publication_date": "August 07, 2024",
                         "range": [
                             {
                                 "unit": "Months",
@@ -1523,12 +1523,12 @@
                                 "unit": "Months",
                                 "unit_en": "Months",
                                 "unit_es": "Meses",
-                                "value": 2.5
+                                "value": 3
                             }
                         ],
-                        "service_request_date": "March 07, 2024",
-                        "service_request_date_en": "March 07, 2024",
-                        "service_request_date_es": "07 de marzo de 2024",
+                        "service_request_date": "March 20, 2024",
+                        "service_request_date_en": "March 20, 2024",
+                        "service_request_date_es": "20 de marzo de 2024",
                         "subtype_info_en": "TN - United States-Mexico-Canada Agreement (USMCA, formerly NAFTA) professional",
                         "subtype_info_es": "TN \u2013 Profesionales bajo el Tratado de Libre Comercio de Estados Unidos, Canad\u00e1 y M\u00e9xico (USMCA, anteriormente NAFTA)",
                         "subtype_note_en": null,
